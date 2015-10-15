@@ -19,28 +19,29 @@ body {
 
 .menu-wrap {
     width: 100%;
-    box-shadow: 0px 1px 3px rgba(0,0,0,0.2);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     background:#eee;
 }
 .menu {
-    width: 1500px;
-    margin: 0px auto;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
 }
 .menu li {
-    margin: 0px;
+    margin: 0;
     list-style: none;
 }
 .menu a {
     transition: all linear 0.15s;
     color: #919191;
+    text-decoration: none;
 }
 .menu li:hover >a, .menu .current-item > a {
-    text-decoration: none;
-    color: #be5b70;
+    color: #FF3300;
 }
 .menu .arrow {
     font-size: 11px;
-    line-height: 0%;
+    line-height: 0;
 }
 /*-----Top Level-----*/
 .menu > ul > li {
@@ -52,22 +53,22 @@ body {
 .menu > ul > li > a {
     padding: 10px 40px;
     display: inline-block;
-    text-shadow: 0px 1px 0px rgba(0,0,0,0.4);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.4);
 }
 .menu > ul > li:hover, .menu > ul > .current-item > a {
     background: #2e2728;
 }
 /*-----Bottom Level-----*/
 .sub_menu {
-    width: 160%;
-    padding:5px 0px;
+    width: 100%;
+    padding:5px 0;
     position: absolute;
     top: 100%;
-    left: 0px;
+    left: 0;
     z-index: -1px;
     opacity: 0;
     transition: opacity linear 0.15s;
-    box-shadow: 0px 2px 3px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 3px rgba(0,0,0,0.2);
     background: #2E2728:
 }
 .menu li:hover .sub_menu {
