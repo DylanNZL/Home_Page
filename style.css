@@ -1,7 +1,5 @@
 body {
-    background-image: url("background.jpg");
-    background-repeat: no-repeat;
-    background-color: #000;
+    background: #000 url("background.jpg") no-repeat;
 }
 #content {
     background: #222;
@@ -80,7 +78,7 @@ body {
     display: block;
 }
 .sub_menu li a:hover, .sub_menu .current-item a {
-    background: ;
+    /* background: ; */
 }
 /*-----End Menu CSS-----*/
 img {
