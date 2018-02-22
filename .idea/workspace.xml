@@ -25,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1076">
-              <caret line="89" column="95" lean-forward="false" selection-start-line="89" selection-start-column="95" selection-end-line="89" selection-end-column="95" />
+            <state relative-caret-position="144">
+              <caret line="164" column="21" lean-forward="false" selection-start-line="164" selection-start-column="21" selection-end-line="164" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -214,7 +214,7 @@
       <workItem from="1480889411121" duration="7000" />
       <workItem from="1480979377964" duration="245000" />
       <workItem from="1481010619409" duration="608000" />
-      <workItem from="1519258490709" duration="555000" />
+      <workItem from="1519258490709" duration="1067000" />
     </task>
     <task id="LOCAL-00001" summary="Changes.&#10;&#10;TODO: change to bootstrap">
       <created>1471930118965</created>
@@ -251,11 +251,25 @@
       <option name="project" value="LOCAL" />
       <updated>1480979605715</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added in wow links">
+      <created>1519259444763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1519259444763</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added in wow links">
+      <created>1519259801990</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1519259801990</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6970000" />
+    <option name="totallyTimeSpent" value="7482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,7 +325,8 @@
     <MESSAGE value="Added NoWhy &amp; NutritionDeal&#10;&#10;TODO: change to bootstrap" />
     <MESSAGE value="Added Trademe, changed stream to direct to homepage rather than login page&#10;&#10;TODO: change to bootstrap" />
     <MESSAGE value="Added LinkedIn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added LinkedIn" />
+    <MESSAGE value="Added in wow links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added in wow links" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -511,8 +526,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1076">
-          <caret line="89" column="95" lean-forward="false" selection-start-line="89" selection-start-column="95" selection-end-line="89" selection-end-column="95" />
+        <state relative-caret-position="144">
+          <caret line="164" column="21" lean-forward="false" selection-start-line="164" selection-start-column="21" selection-end-line="164" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
